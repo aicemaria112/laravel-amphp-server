@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel",
+    "name": "laravel/amphpserver",
     "type": "project",
     "description": "Laravel amphp server integration.",
     "keywords": ["framework", "laravel", "amphp"],
